@@ -9,7 +9,7 @@ This project is a multi-threaded chat application developed in C++ using socket 
 - Client and server can communicate without waiting for a response, enabling asynchronous messaging.
 - Basic error handling and graceful disconnection detection.
 
-##Technologies Used
+## Technologies Used
 - C++: Core language for socket programming.
 - WinSock2: Windows sockets API for handling network connections.
 - Multi-threading: Used to handle simultaneous sending and receiving of messages.
